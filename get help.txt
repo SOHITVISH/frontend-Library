@@ -1,0 +1,7 @@
+feel free to contact @engineer.hoon
+
+
+1- download yarn globally to activate all inteties
+1- create .env file according to you and add all roster
+3- yarn start
+ 
